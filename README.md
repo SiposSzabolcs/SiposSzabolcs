@@ -2,8 +2,8 @@
 
 ### Hi I'm Szabolcs 👋
 
-### Full-stack web developer
 
+- 👨‍💻 Full-stack web developer
 - 🔭 I’m currently working on a .io web game
 - 🌱 I’m currently learning Phaser js
 - 😄 Pronouns: he/him
